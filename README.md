@@ -39,3 +39,7 @@ Result of the authentication check. This field can contain one of these values:
 ### __<ECI__> : Numeric (1)
 
 Electronic Commerce Indicator returned in the customer authentication reply. This element corresponds to the `payerAuthValidateReply_eci` (\*) and `payerAuthValidateReply_ucafCollectionIndicator` (\*\*) API fields.
+
+
+# Note
+* 2014-09-29 [Changes required to support AAV data returned by Master Card SecureCode (MCSC) Attempts Server processing](https://support.cybersource.com/cybskb/index?page=content&id=CS310&actp=LIST)
